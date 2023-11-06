@@ -25,7 +25,6 @@ Por otro lado me sigo profesionalizando por medio de los cursos ofrecidos por la
   <!-- HTML --> <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
   <!-- CSS --> <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
   <!-- GIT --> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <!-- Arduino --> <img src="https://img.shields.io/badge/Arduino-00979C?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino">
   <!-- Visual Studio Code--> <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code">
   <br>
 </div>
